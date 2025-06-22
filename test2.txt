@@ -1,1 +1,1 @@
-test msg in test2.txt
+test msg in test2.txt test add
